@@ -15,6 +15,7 @@ Script assume you've already created **Policy script** & **Policy ID**
 ```
 ./MintSend.sh
 ```
+![image](https://user-images.githubusercontent.com/7429306/170392774-03c3ad65-3391-4332-94e0-00a640711c55.png)
 
 
 ## KNOWN ERROR
