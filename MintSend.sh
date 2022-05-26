@@ -196,7 +196,7 @@ echo "{\"721\":{\"${POLICYID}\":{\"${ASSETname}\":{\"description\":\"Whoaw you r
 # Print queue Info
 # ====================
 echo ""
-echo "Assen in queue" && sleep 0.2
+echo "Asset in queue" && sleep 0.2
 echo "-----------------------------------------------" && sleep 0.2
 echo -e "Asset in queue            : ${FG_LBLUE}${ASSETname}${NC}" && sleep 0.2
 echo "Name HEX                  : ${nameHEX}" && sleep 0.2
