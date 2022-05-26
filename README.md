@@ -17,7 +17,11 @@ Script assume you've already created **Policy script** & **Policy ID**
 ```
 ./MintSend.sh
 ```
-![image](https://user-images.githubusercontent.com/7429306/170392774-03c3ad65-3391-4332-94e0-00a640711c55.png)
+![image](https://user-images.githubusercontent.com/7429306/170393437-66c364ba-c688-466c-a325-8c2b34b855e5.png)
+
+## Building the transaction, Sign & Submit never been so easy
+![image](https://user-images.githubusercontent.com/7429306/170393642-562f6663-8ce1-43e0-8fbb-e29801f84fc7.png)
+
 
 
 ## KNOWN ERROR
