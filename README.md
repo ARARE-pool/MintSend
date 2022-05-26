@@ -22,10 +22,17 @@ Script assume you've already created **Policy script** & **Policy ID**
 ## Building the transaction, Sign & Submit never been so easy
 ![image](https://user-images.githubusercontent.com/7429306/170393642-562f6663-8ce1-43e0-8fbb-e29801f84fc7.png)
 
+![image](https://user-images.githubusercontent.com/7429306/170393713-2d2f1895-6fc1-47c1-9b61-dd0d2f3af7a6.png)
 
 
 ## KNOWN ERROR
 LMK
+
+
+## Use case
+Sending NFT Tickets / **Invitations**
+![image](https://user-images.githubusercontent.com/7429306/170393846-980f8806-5fb9-4b11-b7ec-c086a2c9a6fa.png)
+
 
 
 ## Contributing
