@@ -7,7 +7,8 @@ Script assume having **env** & **numnum.txt** files
 Script assume you've already created **Policy script** & **Policy ID**
 
 ## Assumptions
-- numnum.txt file contain numbers (Exp 1-100) will add to the asset name (Example : ARARE001)
+- numnum.txt file contain numbers (Exp 001-100) will add to the asset name (Example : ARARE001)
+- ![image](https://user-images.githubusercontent.com/7429306/170392921-4acd4e48-57d2-4dce-bf8b-06fe5cbbde5e.png)
 - edit **MintSend.sh** variables & Metadata section
 ![image](https://user-images.githubusercontent.com/7429306/170392869-8ff58dbc-3a13-4b08-ab8d-50ea44e1e948.png)
 
