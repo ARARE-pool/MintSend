@@ -282,7 +282,8 @@ fee=$(cardano-cli transaction calculate-min-fee \
   --byron-witness-count 0 \
   --protocol-params-file ${protocol} | awk '{ print $1 }')
 
-
+fee=${fee%" Lovelace"}
+amountToSendSelf=$((${amountToSendSelf} - ${fee}))
 
 # Print Info
 # ====================
@@ -300,9 +301,6 @@ echo "Fee                       : ${fee}" && sleep 0.2
 echo -e "Amount left in the wallet : ${FG_LBLUE}${amountToSendSelf} lovelace${NC}" && sleep 0.2
 echo ""
 
-
-fee=${fee%" Lovelace"}
-amountToSendSelf=$((${amountToSendSelf} - ${fee}))
 
 cardano-cli transaction build-raw \
     --fee ${fee} \
